@@ -1,21 +1,21 @@
 ## Farmville Live Chat Window Too Small!
 
-#### before:
+### before:
 ![tiny chat window](images/tiny_chat.jpg)
 
 * Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
-bookmarks).
+bookmarks). If that doesn't make sense try this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
   * <a href="javascript:alert('Farmville Live Chat Max is under construction.');">LCmax</a>
 * Open Farmville (and wait for it to settle in).
 * Click the **LCmax** bookmark in your bookmarks bar.
 
 
-#### after:
+### after:
 ![tall chat window](images/tall_chat.jpg)
 
 
 
-### code
+## code
 You can edit the bookmark before you use it and inspect its contents
 to see that it doesn't do anything nefarious. You'll probably want
 to copy the next to a code editor for reformatting to make it easier
@@ -27,7 +27,7 @@ alert(
   );
 ```
 
-### technical details
+## technical details
 
 Facebook displays lots of suggestions above the Farmville "Live Chat"
 window, making the chat window quite short and difficult to use.
