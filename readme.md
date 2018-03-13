@@ -1,11 +1,14 @@
 ## Farmville Live Chat Window Too Small!
+## And too many ads in the column!
 
 ### before:
 ![tiny chat window](images/tiny_chat.jpg)
 
+* Close your Farmville window.
 * Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
-bookmarks). If that doesn't make sense try this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
-  <a href="javascript:alert('Farmville Live Chat Max is under construction.');">LCmax</a>
+bookmarks). If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
+<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');">LCmax</a>
+
 * Open Farmville (and wait for it to settle in).
 * Click the **LCmax** bookmark in your bookmarks bar.
 
@@ -16,10 +19,11 @@ bookmarks). If that doesn't make sense try this [tutorial video](https://www.you
 
 If LCmax doesn't work or you don't like it:
 
-* Remove the bookmark from your bookmarks bar. Right click on LCmax, then choose Delete.
+* Remove the bookmark from your bookmarks bar. Right click on the
+**LCmax** bookmark, then choose Delete.
 * Refresh your browser page to get a fresh copy.
 
-Has LCMax stopped working? It's possible that Facebook has changed
+Has **LCMax** stopped working? It's possible that Facebook has changed
 something. Please describe the situation in a new [issue](https://github.com/slothbear/lcmax/issues)
 and maybe I can fix it.
 
@@ -32,8 +36,16 @@ to read. Right click on the LCmax bookmark and click "Edit" to see the code. Mos
 I've included a formatted copy of the code below.
 
 ```javascript
-alert(
-  'Farmville Live Chat Max is under construction.'
+var styleElement = document.createElement('style');
+document.head.appendChild(styleElement);
+var styleSheet = styleElement.sheet;
+
+styleSheet.insertRule(
+  '._3ss {display: none;}'
+  );
+
+styleSheet.insertRule(
+  '.uiScrollableAreaWrap { max-height: 540px !important; }'
   );
 ```
 
