@@ -5,7 +5,7 @@
 
 * Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
 bookmarks). If that doesn't make sense try this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
-  * <a href="javascript:alert('Farmville Live Chat Max is under construction.');">LCmax</a>
+  <a href="javascript:alert('Farmville Live Chat Max is under construction.');">LCmax</a>
 * Open Farmville (and wait for it to settle in).
 * Click the **LCmax** bookmark in your bookmarks bar.
 
