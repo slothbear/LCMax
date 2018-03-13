@@ -8,6 +8,7 @@
 * Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
 bookmarks). If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');">
+
 LCmax</a>
 
 * Open Farmville (and wait for it to settle in).
