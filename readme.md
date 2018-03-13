@@ -5,8 +5,10 @@
 ![tiny chat window](images/tiny_chat.png)
 
 * Close your Farmville window.
-* Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
-bookmarks). If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
+* Drag the link below (labeled "LCmax") to your bookmark bar
+(or anywhere in your bookmarks).
+  * NOTE: Don't click the link. That does nothing. Drag it!
+  * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 
 <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');">LCmax</a>
 
