@@ -9,17 +9,27 @@ bookmarks). If that doesn't make sense try this [tutorial video](https://www.you
 * Open Farmville (and wait for it to settle in).
 * Click the **LCmax** bookmark in your bookmarks bar.
 
-
 ### after:
 ![tall chat window](images/tall_chat.jpg)
 
+## not happy?
 
+If LCmax doesn't work or you don't like it:
+
+* Remove the bookmark from your bookmarks bar. Right click on LCmax, then choose Delete.
+* Refresh your browser page to get a fresh copy.
+
+Has LCMax stopped working? It's possible that Facebook has changed
+something. Please describe the situation in a new [issue](https://github.com/slothbear/lcmax/issues)
+and maybe I can fix it.
 
 ## code
 You can edit the bookmark before you use it and inspect its contents
 to see that it doesn't do anything nefarious. You'll probably want
 to copy the next to a code editor for reformatting to make it easier
-to read. I've included a formatted copy of the code below.
+to read. Right click on the LCmax bookmark and click "Edit" to see the code. Most browsers display the code with the label "URL".
+
+I've included a formatted copy of the code below.
 
 ```javascript
 alert(
