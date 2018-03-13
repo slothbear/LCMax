@@ -2,7 +2,7 @@
 ## And too many ads in the column!
 
 ### before:
-![tiny chat window](images/tiny_chat.jpg)
+![tiny chat window](images/tiny_chat.png)
 
 * Close your Farmville window.
 * Drag the link below (labeled "LCmax") to your bookmark bar (or anywhere in your
@@ -13,8 +13,8 @@ bookmarks). If that doesn't make sense watch this [tutorial video](https://www.y
 * Open Farmville (and wait for it to settle in).
 * Click the **LCmax** bookmark in your bookmarks bar.
 
-### after:
-![tall chat window](images/tall_chat.jpg)
+### after (watch the right column):
+![tall chat window](images/tall_chat.png)
 
 ## not happy?
 
@@ -41,10 +41,12 @@ var styleElement = document.createElement('style');
 document.head.appendChild(styleElement);
 var styleSheet = styleElement.sheet;
 
+<!-- Remove the game recommendation sections. -->
 styleSheet.insertRule(
   '._3ss {display: none;}'
   );
 
+<!-- Make the Live Chat window taller. -->
 styleSheet.insertRule(
   '.uiScrollableAreaWrap { max-height: 540px !important; }'
   );
