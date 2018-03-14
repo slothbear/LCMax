@@ -44,31 +44,6 @@ something. Please
 [let me know](mailto:LCmax.Issues@gmail.com)
 and maybe I can fix it.
 
-## code
-You can edit the bookmark before you use it and inspect its contents
-to see that it doesn't do anything nefarious. You'll probably want
-to copy the next to a code editor for reformatting to make it easier
-to read. Right click on the LCmax bookmark in your bookmark bar
-and click "Edit" to see the code. Most browsers display the code with the label "URL".
-
-I've included a formatted copy of the code below.
-
-```javascript
-var styleElement = document.createElement('style');
-document.head.appendChild(styleElement);
-var styleSheet = styleElement.sheet;
-
-<!-- Remove the game recommendation sections. -->
-styleSheet.insertRule(
-  '._3ss {display: none;}'
-  );
-
-<!-- Make the Live Chat window taller. -->
-styleSheet.insertRule(
-  '.uiScrollableAreaWrap { max-height: 540px !important; }'
-  );
-```
-
 ## technical details
 
 Facebook displays lots of suggestions above the Farmville "Live Chat"
@@ -94,3 +69,28 @@ This bookmarklet is designed for the Farmville game page.
 Please don't use it on other pages. If you do so by
 accident, reload the page and all effects of the
 bookmarklet will be banished.
+
+## code
+You can edit the bookmark before you use it and inspect its contents
+to see that it doesn't do anything nefarious. You'll want
+copy the code to a code editor for reformatting to make it easier
+to read. Right click on the LCmax bookmark in your bookmark bar
+and click "Edit" to see the code. Most browsers display the code with the label "URL".
+
+I've included a formatted copy of the code below.
+
+```javascript
+var styleElement = document.createElement('style');
+document.head.appendChild(styleElement);
+var styleSheet = styleElement.sheet;
+
+<!-- Remove the game recommendation sections. -->
+styleSheet.insertRule(
+  '._3ss {display: none;}'
+  );
+
+<!-- Make the Live Chat window taller. -->
+styleSheet.insertRule(
+  '.uiScrollableAreaWrap { max-height: 540px !important; }'
+  );
+```
