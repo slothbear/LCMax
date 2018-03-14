@@ -19,15 +19,18 @@ See something that could be done better? Please [let me know](mailto:LCmax.Issue
 ## installation instructions
 
 1. Close your Farmville window.
-1. Drag the link below (**LCmax**) to your bookmark bar
+1. Drag the link below to your bookmark bar
 (or anywhere in your bookmarks).
   * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 1. Open Farmville (and wait for it to settle in).
 1. Click the **LCmax** bookmark in your bookmarks bar.
 
-<b>DRAG THIS LINK:</b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
+### Drag the link below to your bookmark bar:
 
+<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
+
+<br>
 ## not happy?
 
 If LCmax doesn't work or you don't like it:
