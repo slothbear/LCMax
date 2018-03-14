@@ -3,6 +3,8 @@
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
+<br>
+
 ## summary
 LCmax gets rid of the game recommendations and makes the Live Chat
 window taller.
