@@ -10,7 +10,7 @@ window taller.
 Is this magic? No. Is this dangerous? No. The link you install
 below changes two display properties. Nothing nefarious.
 
-See something that could be done better? Please [let me know]((mailto:LCmax.Issues@gmail.com)).
+See something that could be done better? Please [let me know](mailto:LCmax.Issues@gmail.com).
 
 ### before:
 ![tiny chat window](images/tiny_chat.png)
