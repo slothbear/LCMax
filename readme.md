@@ -4,11 +4,11 @@
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
 ### summary
-Get rid of the game recommendations and make the Live Chat
+LCmax gets rid of the game recommendations and makes the Live Chat
 window taller.
 
-Is this magic? No. Is this dangerous? No. The link you install
-below changes two display properties. Nothing nefarious. If you're
+Magic? No. Dangerous? No. The bookmark you install
+below changes two display properties. If you're
 concerned, have a computer friend review the technical details
 section below.
 
