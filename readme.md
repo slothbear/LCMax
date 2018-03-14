@@ -8,7 +8,9 @@ Get rid of the game recommendations and make the Live Chat
 window taller.
 
 Is this magic? No. Is this dangerous? No. The link you install
-below changes two display properties. Nothing nefarious.
+below changes two display properties. Nothing nefarious. If you're
+concerned, have a computer friend review the technical details
+section below.
 
 See something that could be done better? Please [let me know](mailto:LCmax.Issues@gmail.com).
 
