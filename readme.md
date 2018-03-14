@@ -23,9 +23,7 @@ See something that could be done better? Please create a new [issue](https://git
 1. Open Farmville (and wait for it to settle in).
 1. Click the **LCmax** bookmark in your bookmarks bar.
 
-<table style="border: 1px solid black;">
-<tr style="border: 1px solid black;">
-<b>DRAG THIS LINK:<b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a></tr></table>
+<b>DRAG THIS LINK:<b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
 
 ### after (watch the right column):
 ![tall chat window](images/tall_chat.png)
