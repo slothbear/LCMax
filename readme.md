@@ -3,7 +3,7 @@
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
-### summary
+## summary
 LCmax gets rid of the game recommendations and makes the Live Chat
 window taller.
 
@@ -14,8 +14,7 @@ section below.
 
 See something that could be done better? Please [let me know](mailto:LCmax.Issues@gmail.com).
 
-### before:
-![tiny chat window](images/tiny_chat.png)
+## installation instructions
 
 1. Close your Farmville window.
 1. Drag the link below (**LCmax**) to your bookmark bar
@@ -26,9 +25,6 @@ See something that could be done better? Please [let me know](mailto:LCmax.Issue
 1. Click the **LCmax** bookmark in your bookmarks bar.
 
 <b>DRAG THIS LINK:</b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
-
-### after (examine the right column):
-![tall chat window](images/tall_chat.png)
 
 ## not happy?
 
