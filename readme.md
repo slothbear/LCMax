@@ -1,19 +1,28 @@
 ## Farmville Live Chat Window Too Small!
 ## And too many ads in the column!
 
+### summary
+Get rid of the game recommendations and make the Live Chat
+window taller.
+
+Is this magic? No. Is this dangerous? No. The link you install
+below changes two display properties. Nothing nefarious.
+
+See something that could be done better? Please create a new [issue](https://github.com/slothbear/lcmax/issues).
+
 ### before:
 ![tiny chat window](images/tiny_chat.png)
 
-* Close your Farmville window.
-* Drag the link below (labeled "LCmax") to your bookmark bar
+1. Close your Farmville window.
+1. Drag the link below (labeled "LCmax") to your bookmark bar
 (or anywhere in your bookmarks).
-  * NOTE: Don't click the link. That does nothing. Drag it!
+  * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 
 <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');">LCmax</a>
 
-* Open Farmville (and wait for it to settle in).
-* Click the **LCmax** bookmark in your bookmarks bar.
+1. Open Farmville (and wait for it to settle in).
+1. Click the **LCmax** bookmark in your bookmarks bar.
 
 ### after (watch the right column):
 ![tall chat window](images/tall_chat.png)
