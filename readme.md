@@ -1,10 +1,7 @@
-## Farmville Live Chat Window Too Small!
-## And too many ads in the column!
-
-| before | after |
+| before LCmax | after |
 | -------      | --------      |
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
-||_Live Chat is tall._|
+|game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
 ### summary
 Get rid of the game recommendations and make the Live Chat
