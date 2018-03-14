@@ -10,7 +10,7 @@ window taller.
 Is this magic? No. Is this dangerous? No. The link you install
 below changes two display properties. Nothing nefarious.
 
-See something that could be done better? Please create a new [issue](https://github.com/slothbear/lcmax/issues).
+See something that could be done better? Please [let me know]((mailto:LCmax.Issues@gmail.com)).
 
 ### before:
 ![tiny chat window](images/tiny_chat.png)
@@ -23,9 +23,9 @@ See something that could be done better? Please create a new [issue](https://git
 1. Open Farmville (and wait for it to settle in).
 1. Click the **LCmax** bookmark in your bookmarks bar.
 
-<b>DRAG THIS LINK:<b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
+<b>DRAG THIS LINK:</b> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
 
-### after (watch the right column):
+### after (examine the right column):
 ![tall chat window](images/tall_chat.png)
 
 ## not happy?
@@ -37,7 +37,8 @@ If LCmax doesn't work or you don't like it:
 * Refresh your browser page to get a fresh copy.
 
 Has **LCMax** stopped working? It's possible that Facebook has changed
-something. Please describe the situation in a new [issue](https://github.com/slothbear/lcmax/issues)
+something. Please
+[let me know](mailto:LCmax.Issues@gmail.com)
 and maybe I can fix it.
 
 ## code
