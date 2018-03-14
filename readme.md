@@ -33,7 +33,7 @@ See something that could be done better? Please [let me know](mailto:LCmax.Issue
 If LCmax doesn't work or you don't like it:
 
 * Remove the bookmark from your bookmarks bar. Right click on the
-**LCmax** bookmark, then choose Delete.
+**LCmax** bookmark in your bookmark bar, then choose Delete.
 * Refresh your browser page to get a fresh copy.
 
 Has **LCMax** stopped working? It's possible that Facebook has changed
@@ -45,7 +45,8 @@ and maybe I can fix it.
 You can edit the bookmark before you use it and inspect its contents
 to see that it doesn't do anything nefarious. You'll probably want
 to copy the next to a code editor for reformatting to make it easier
-to read. Right click on the LCmax bookmark and click "Edit" to see the code. Most browsers display the code with the label "URL".
+to read. Right click on the LCmax bookmark in your bookmark bar
+and click "Edit" to see the code. Most browsers display the code with the label "URL".
 
 I've included a formatted copy of the code below.
 
