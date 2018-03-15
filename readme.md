@@ -19,11 +19,10 @@ See something that could be done better? Please [let me know](mailto:LCmax.Issue
 ## installation instructions
 
 1. Close your Farmville window.
-1. Drag the link below to your bookmark bar
-(or anywhere in your bookmarks).
+1. Drag the link below to your bookmarks bar.
   * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
-1. Open Farmville (and wait for it to settle in).
+1. Open Farmville.
 1. Click the **LCmax** bookmark in your bookmarks bar.
 
 ### Drag the link below to your bookmark bar:
