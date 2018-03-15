@@ -14,7 +14,9 @@ below changes two display properties. If you're
 concerned, have a computer friend review the technical details
 section below.
 
-See something that could be done better? Please [let me know](mailto:LCmax.Issues@gmail.com).
+If you have suggestions for improving these instructions or adding
+a new feature, please let me know at: 
+[LCmax.Issues@gmail.com](mailto:LCmax.Issues@gmail.com).
 
 ## installation instructions
 
