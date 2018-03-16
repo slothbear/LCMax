@@ -15,8 +15,10 @@ concerned, have a computer friend review the technical details
 section below.
 
 If you have suggestions for improving these instructions or adding
-a new feature, please let me know at: 
+a new feature, please let me know at:
 [LCmax.Issues@gmail.com](mailto:LCmax.Issues@gmail.com).
+
+> Note: Firefox support coming soon.
 
 ## installation instructions
 
