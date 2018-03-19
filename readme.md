@@ -24,14 +24,19 @@ If you have suggestions for improving these instructions or adding
 a new feature, please let me know at:
 [ChatCharger@gmail.com](mailto:ChatCharger@gmail.com).
 
+Chat Charger cannot change the function of the Live Chat
+window, but it could change display options like fonts, colors,
+text sizes.
+
 ## installation instructions
 
-1. Close your Farmville window.
+1. Close the Farmville window.
 1. Drag the **Chat Charger** link above to your bookmarks bar.
   * NOTE: Don't click the link. That does nothing. Drag it.
-  * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
+  * If that doesn't make sense, watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 1. Open Farmville.
 1. Click the **Chat Charger** bookmark in your bookmarks bar.
+1. Super Tall Chat yay!
 
 
 <br>
