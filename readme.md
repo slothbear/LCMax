@@ -3,15 +3,17 @@
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
+<br>
 ### Drag the link below to your bookmark bar:
 
-<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a>
+> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a>
 
 Need more details? Read on.
 
+<br>
 ## summary
-Chat Charger gets rid of the game recommendations and makes the Live Chat
-window taller.
+Chat Charger gets rid of the game recommendations and makes the
+Live Chat window taller.
 
 Magic or Dangerous? No. The bookmark you click
 changes two display properties. If you're
@@ -37,6 +39,7 @@ a new feature, please let me know at:
 
 If Chat Charger doesn't work or you don't like it:
 
+* The effects of Chat Charger are erased every time you reload the Farmville page or restart your browser. Chat Charger has no effect unless you click the bookmark.
 * Remove the bookmark from your bookmarks bar. Right click on the
 **Chat Charger** bookmark in your bookmark bar, then choose Delete.
 * Refresh your browser page to get a fresh copy.
@@ -47,9 +50,6 @@ changed something. Please
 and maybe I can fix it.
 
 ## technical details
-
-Facebook displays lots of suggestions above the Farmville "Live Chat"
-window, making the chat window quite short and difficult to use.
 
 This browser bookmarklet inserts two CSS rules into the page:
 
