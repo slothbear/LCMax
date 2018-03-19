@@ -1,16 +1,16 @@
-| before ChatCharger | after |
+| before Chat Charger | after |
 | -------      | --------      |
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
 ### Drag the link below to your bookmark bar:
 
-<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> ChatCharger</a>
+<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a>
 
 Need more details? Read on.
 
 ## summary
-ChatCharger gets rid of the game recommendations and makes the Live Chat
+Chat Charger gets rid of the game recommendations and makes the Live Chat
 window taller.
 
 Magic or Dangerous? No. The bookmark you click
@@ -25,23 +25,23 @@ a new feature, please let me know at:
 ## installation instructions
 
 1. Close your Farmville window.
-1. Drag the **ChatCharger** link above to your bookmarks bar.
+1. Drag the **Chat Charger** link above to your bookmarks bar.
   * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 1. Open Farmville.
-1. Click the **ChatCharger** bookmark in your bookmarks bar.
+1. Click the **Chat Charger** bookmark in your bookmarks bar.
 
 
 <br>
 ## not happy?
 
-If ChatCharger doesn't work or you don't like it:
+If Chat Charger doesn't work or you don't like it:
 
 * Remove the bookmark from your bookmarks bar. Right click on the
-**ChatCharger** bookmark in your bookmark bar, then choose Delete.
+**Chat Charger** bookmark in your bookmark bar, then choose Delete.
 * Refresh your browser page to get a fresh copy.
 
-Has **ChatCharger** stopped working? It's possible that Facebook has
+Has **Chat Charger** stopped working? It's possible that Facebook has
 changed something. Please
 [let me know](mailto:ChatCharger@gmail.com)
 and maybe I can fix it.
@@ -77,7 +77,7 @@ bookmarklet will be banished.
 You can edit the bookmark before you use it and inspect its contents
 to see that it doesn't do anything nefarious. You'll want
 copy the code to a code editor for reformatting to make it easier
-to read. Right click on the ChatCharger bookmark in your bookmark bar
+to read. Right click on the Chat Charger bookmark in your bookmark bar
 and click "Edit" to see the code. Most browsers display the code with the label "URL".
 
 I've included a formatted copy of the code below.
