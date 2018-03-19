@@ -1,4 +1,4 @@
-| before LCmax | after |
+| before ChatCharger | after |
 | -------      | --------      |
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
@@ -6,7 +6,7 @@
 <br>
 
 ## summary
-LCmax gets rid of the game recommendations and makes the Live Chat
+ChatCharger gets rid of the game recommendations and makes the Live Chat
 window taller.
 
 Magic? No. Dangerous? No. The bookmark you install
@@ -16,7 +16,7 @@ section below.
 
 If you have suggestions for improving these instructions or adding
 a new feature, please let me know at:
-[LCmax.Issues@gmail.com](mailto:LCmax.Issues@gmail.com).
+[ChatCharger@gmail.com](mailto:ChatCharger@gmail.com).
 
 > Note: Firefox support coming soon.
 
@@ -27,24 +27,24 @@ a new feature, please let me know at:
   * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 1. Open Farmville.
-1. Click the **LCmax** bookmark in your bookmarks bar.
+1. Click the **ChatCharger** bookmark in your bookmarks bar.
 
 ### Drag the link below to your bookmark bar:
 
-<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> LCmax</a>
+<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> ChatCharger</a>
 
 <br>
 ## not happy?
 
-If LCmax doesn't work or you don't like it:
+If ChatCharger doesn't work or you don't like it:
 
 * Remove the bookmark from your bookmarks bar. Right click on the
-**LCmax** bookmark in your bookmark bar, then choose Delete.
+**ChatCharger** bookmark in your bookmark bar, then choose Delete.
 * Refresh your browser page to get a fresh copy.
 
-Has **LCMax** stopped working? It's possible that Facebook has changed
+Has **ChatCharger** stopped working? It's possible that Facebook has changed
 something. Please
-[let me know](mailto:LCmax.Issues@gmail.com)
+[let me know](mailto:ChatCharger@gmail.com)
 and maybe I can fix it.
 
 ## technical details
@@ -77,7 +77,7 @@ bookmarklet will be banished.
 You can edit the bookmark before you use it and inspect its contents
 to see that it doesn't do anything nefarious. You'll want
 copy the code to a code editor for reformatting to make it easier
-to read. Right click on the LCmax bookmark in your bookmark bar
+to read. Right click on the ChatCharger bookmark in your bookmark bar
 and click "Edit" to see the code. Most browsers display the code with the label "URL".
 
 I've included a formatted copy of the code below.
