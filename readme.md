@@ -3,14 +3,18 @@
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
 |game recommendations so big|_Live Chat is tall._ 💜☀️❄️|
 
-<br>
+### Drag the link below to your bookmark bar:
+
+<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> ChatCharger</a>
+
+Need more details? Read on.
 
 ## summary
 ChatCharger gets rid of the game recommendations and makes the Live Chat
 window taller.
 
-Magic? No. Dangerous? No. The bookmark you install
-below changes two display properties. If you're
+Magic or Dangerous? No. The bookmark you click
+changes two display properties. If you're
 concerned, have a computer friend review the technical details
 section below.
 
@@ -18,20 +22,15 @@ If you have suggestions for improving these instructions or adding
 a new feature, please let me know at:
 [ChatCharger@gmail.com](mailto:ChatCharger@gmail.com).
 
-> Note: Firefox support coming soon.
-
 ## installation instructions
 
 1. Close your Farmville window.
-1. Drag the link below to your bookmarks bar.
+1. Drag the **ChatCharger** link above to your bookmarks bar.
   * NOTE: Don't click the link. That does nothing. Drag it.
   * If that doesn't make sense watch this [tutorial video](https://www.youtube.com/watch?v=-E6h7Z5fPlg) that demonstrates the dragging process.
 1. Open Farmville.
 1. Click the **ChatCharger** bookmark in your bookmarks bar.
 
-### Drag the link below to your bookmark bar:
-
-<a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> ChatCharger</a>
 
 <br>
 ## not happy?
@@ -42,8 +41,8 @@ If ChatCharger doesn't work or you don't like it:
 **ChatCharger** bookmark in your bookmark bar, then choose Delete.
 * Refresh your browser page to get a fresh copy.
 
-Has **ChatCharger** stopped working? It's possible that Facebook has changed
-something. Please
+Has **ChatCharger** stopped working? It's possible that Facebook has
+changed something. Please
 [let me know](mailto:ChatCharger@gmail.com)
 and maybe I can fix it.
 
@@ -55,7 +54,8 @@ window, making the chat window quite short and difficult to use.
 This browser bookmarklet inserts two CSS rules into the page:
 
 * Hide the game recommendation section at the top of the right column.
-* Change the size of the Live Chat window to take up most of the right column.
+* Change the size of the Live Chat window to take up most of the
+right column.
 
 The CSS declarations use these class names from the page:
 
