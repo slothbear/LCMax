@@ -6,7 +6,7 @@
 <br>
 ### Drag the link below to your bookmark bar:
 
-> <a href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a>
+<a style="font-size: 175%;" href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a>
 
 Then load Farmville, then click the Chat Charger button.
 Please follow the installation instructions below carefully if
