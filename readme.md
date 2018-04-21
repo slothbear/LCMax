@@ -6,7 +6,18 @@
 <br>
 ### Drag the link below to your bookmark bar:
 
-LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript: var styleElement = document.createElement('style');document.head.appendChild(styleElement);var styleSheet = styleElement.sheet;styleSheet.insertRule('._3ss {display: none;}');styleSheet.insertRule('.uiScrollableAreaWrap { max-height: 540px !important; }');"> Chat Charger</a> &lt;&lt;-- LINK
+LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
+var styleElement = document.createElement('style');
+document.head.appendChild(styleElement);
+var styleSheet = styleElement.sheet;
+styleSheet.insertRule(
+  '._3ss {display: none;}'
+);
+styleSheet.insertRule(
+  '.uiScrollableAreaWrap { max-height: 540px !important; }'
+);
+console.log('Chat Charger loaded. More at ChatCharger.org');
+"> Chat Charger</a> &lt;&lt;-- LINK
 
 Then load Farmville, then click the Chat Charger button.
 Please follow the installation instructions below carefully if
@@ -87,20 +98,25 @@ copy the code to a code editor for reformatting to make it easier
 to read. Right click on the Chat Charger bookmark in your bookmark bar
 and click "Edit" to see the code. Most browsers display the code with the label "URL".
 
-I've included a formatted copy of the code below.
+Here's a copy of the code from the bookmarklet. The comments are not
+included in the bookmarklet since they
+[interfere](https://github.com/slothbear/chatcharger/issues/11)
+with operation.
 
 ```javascript
 var styleElement = document.createElement('style');
 document.head.appendChild(styleElement);
 var styleSheet = styleElement.sheet;
 
-<!-- Remove the game recommendation sections. -->
+// Remove the game recommendation sections.
 styleSheet.insertRule(
   '._3ss {display: none;}'
-  );
+);
 
-<!-- Make the Live Chat window taller. -->
+// Make the Live Chat window taller.
 styleSheet.insertRule(
   '.uiScrollableAreaWrap { max-height: 540px !important; }'
-  );
+);
+
+console.log('Chat Charger loaded. More at ChatCharger.org');
 ```
