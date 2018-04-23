@@ -18,7 +18,7 @@ LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
   styleSheet.insertRule(
     '.uiScrollableAreaWrap { max-height: 540px !important; }'
   );
-  console.log('Chat Charger version 2.0 loaded. More at ChatCharger.org');
+  console.log('Chat Charger version 2.1 loaded. More at ChatCharger.org');
 })();
 "> Chat Charger</a> &lt;&lt;-- LINK
 
@@ -106,21 +106,20 @@ included in the bookmarklet since they
 with operation.
 
 ```javascript
-var styleElement = document.createElement('style');
-document.head.appendChild(styleElement);
-var styleSheet = styleElement.sheet;
-
-// Remove the game recommendation sections.
-styleSheet.insertRule(
-  '._3ss {display: none;}'
-);
-
-// Make the Live Chat window taller.
-styleSheet.insertRule(
-  '.uiScrollableAreaWrap { max-height: 540px !important; }'
-);
-
-console.log('Chat Charger version 2.0 loaded. More at ChatCharger.org');
+(function() {
+  var styleElement = document.createElement('style');
+  document.head.appendChild(styleElement);
+  var styleSheet = styleElement.sheet;
+  // Remove the game recommendation sections.
+  styleSheet.insertRule(
+    '._3ss {display: none;}'
+  );
+  // Make the Live Chat window taller.
+  styleSheet.insertRule(
+    '.uiScrollableAreaWrap { max-height: 540px !important; }'
+  );
+  console.log('Chat Charger version 2.1 loaded. More at ChatCharger.org');
+})();
 ```
 
 ### origin

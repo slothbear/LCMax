@@ -10,5 +10,5 @@
   styleSheet.insertRule(
     '.uiScrollableAreaWrap { max-height: 540px !important; }'
   );
-  console.log('Chat Charger version 2.0 loaded. More at ChatCharger.org');
+  console.log('Chat Charger version 2.1 loaded. More at ChatCharger.org');
 })();
