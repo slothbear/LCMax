@@ -158,6 +158,6 @@ LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
   styleSheet.insertRule(
     '.uiScrollableAreaWrap { max-height: 265px !important; }'
   );
-  console.log('Chat Charger version 2.1 loaded. More at ChatCharger.org');
+  console.log('Chat Charger version 2.1ci loaded. More at ChatCharger.org');
 })();
 "> Chat Charger CI</a> &lt;&lt;-- LINK
