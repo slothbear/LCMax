@@ -138,3 +138,26 @@ I remembered that a bookmarklet could change CSS, is much easier to install,
 and doesn't tamper with your system like Greasemonkey does. So I coded two
 CSS declarations, bought a domain, and wrote these words. Give it a try and
 [let me know](mailto:ChatCharger@gmail.com) your thoughts. Thanks!
+
+### experimental versions
+
+Players of other games might need a different version
+of Chat Charger. The links below use different settings that might work
+better for other games.
+
+#### Coral Isle
+
+LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
+(function() {
+  var styleElement = document.createElement('style');
+  document.head.appendChild(styleElement);
+  var styleSheet = styleElement.sheet;
+  styleSheet.insertRule(
+    '._3ss {display: none;}'
+  );
+  styleSheet.insertRule(
+    '.uiScrollableAreaWrap { max-height: 265px !important; }'
+  );
+  console.log('Chat Charger version 2.1 loaded. More at ChatCharger.org');
+})();
+"> Chat Charger CI</a> &lt;&lt;-- LINK
