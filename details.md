@@ -1,3 +1,8 @@
+| before Chat Charger | after |
+| -------      | --------      |
+|![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
+|game recommendations so big|💜🌸 _Live Chat is tall._ 🌻💛|
+
 ## how does it work?
 Chat Charger gets rid of the game recommendations and makes the
 Live Chat window taller. Is this magic or dangerous? No.
