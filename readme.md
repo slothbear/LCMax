@@ -142,8 +142,12 @@ CSS declarations, bought a domain, and wrote these words. Give it a try and
 ### experimental versions
 
 Players of other games might need a different version
-of Chat Charger. The links below use different settings that might work
-better for other games.
+of Chat Charger. Please try the original version at the top first.
+
+The links below use different settings that might work
+better for other games. If you still find it doesn't work for you,
+please [let me know](mailto:ChatCharger@gmail.com) and send screenshots
+if you can. That helps me to see what's going on.
 
 #### Coral Isle
 
