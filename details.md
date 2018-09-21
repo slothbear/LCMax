@@ -89,7 +89,9 @@ with operation.
 ### origin
 
 Over time, Facebook/Farmville added more lines of game recommendations
-in the right column, leaving less space for Live Chat. At this time,
+in the right column, leaving less space for Live Chat. A couple of times
+there have been *five* rows of games, dwarfing the Live Chat area.
+At this time,
 the recommendations take about 1/2 the column. I never use those
 recommendations so I'd really rather have more lines in Live Chat.
 
