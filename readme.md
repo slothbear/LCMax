@@ -22,7 +22,7 @@ LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
 })();
 "> Chat Charger</a> &lt;&lt;-- LINK
 
-Then load Farmville, then click the Chat Charger button.
+Load Farmville, then click the Chat Charger button.
 Please follow the detailed instructions below carefully if
 Chat Charger is not working for you.
 <br>
