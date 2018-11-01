@@ -1,7 +1,7 @@
 | before Chat Charger | after |
 | -------      | --------      |
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
-|game recommendations are so big|💜🌸 _Live Chat is tall._ 🌻💛|
+|Game recommendations are so big.|💜🌸 _Live Chat is now tall._ 🌻💛|
 
 ## short installation instructions
 
