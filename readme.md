@@ -1,7 +1,7 @@
 | before Chat Charger | after |
 | -------      | --------      |
 |![tiny chat window](images/tiny_chat.png)|![tall chat window](images/tall_chat.png)|
-|game recommendations so big|💜🌸 _Live Chat is tall._ 🌻💛|
+|Game recommendations are so big.|💜🌸 _Live Chat is now tall._ 🌻💛|
 
 ## short installation instructions
 
@@ -22,7 +22,7 @@ LINK --&gt;&gt; <a style="font-size: 175%;" href="javascript:
 })();
 "> Chat Charger</a> &lt;&lt;-- LINK
 
-Then load Farmville, then click the Chat Charger button.
+Load Farmville, then click the Chat Charger button.
 Please follow the detailed instructions below carefully if
 Chat Charger is not working for you.
 <br>
